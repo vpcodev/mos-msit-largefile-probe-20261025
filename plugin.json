@@ -1,0 +1,6 @@
+{
+  "$schema": "https://agent-plugins.org/schemas/1.0.0/plugin.schema.json",
+  "name": "largefile-probe",
+  "version": "1.0.0",
+  "description": "Test-only probe with one 1.9 MiB reference file."
+}
